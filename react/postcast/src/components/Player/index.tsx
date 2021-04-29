@@ -28,6 +28,15 @@
                         <img src="/play.svg" alt="Trocar"/>
 
                     </button>
+                    <button type="button" className={styles.playbutton}>
+                        <img src="/play-next.svg" alt="Trocar Proxima"/>
+
+
+                    </button>
+                    <button type="button" className={styles.playbutton}>
+                        <img src="/repeat.svg" alt="Repetir"/>
+
+                    </button>
                 </div>
 
             </footer>
