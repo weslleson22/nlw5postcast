@@ -18,24 +18,24 @@
                 </div>
                 <span>00:00</span>
                 </div>
+
                 <div className={styles.buttons}>
                     <button type="button">
                         <img src="/shuffle.svg" alt="Embralhar"/>
-
                     </button>
                     <button type="button">
                         <img src="/play-previous.svg" alt="Tocar anterior"/>
                     </button>
-                    <button type="button" className={styles.playbutton}>
+                    <button type="button" className={styles.playButton}>
                         <img src="/play.svg" alt="Trocar"/>
 
                     </button>
-                    <button type="button" className={styles.playbutton}>
+                    <button type="button">
                         <img src="/play-next.svg" alt="Trocar Proxima"/>
 
 
                     </button>
-                    <button type="button" className={styles.playbutton}>
+                    <button type="button" >
                         <img src="/repeat.svg" alt="Repetir"/>
 
                     </button>
